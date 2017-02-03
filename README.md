@@ -106,52 +106,49 @@ Another new feature that could be implement, is to allow guests to call for a ta
 
 ## Test Cases
 
-![Case 1](img/tc1.png)
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-|Test | Case|
+| Test | Case |
 |------------ | -------------|
 |Print Room type occupancy Rate | Hotel has 2 Single rooms, 2 Standard rooms, 2 VIP rooms, and 2 Deluxe rooms currently being occupied|
-|TESTInG COLSPAN||
+||![Case 1](img/tc1.png)|
 
-![Case 2](img/tc2.png)
-Test | Case
------------- | -------------
-Print Room status | Hotel has 2 Single rooms, 2 Standard rooms, 2 VIP rooms, and 2 Deluxe rooms currently under maintenance
+| Test | Case |
+|------------ | -------------|
+|Print Room status | Hotel has 2 Single rooms, 2 Standard rooms, 2 VIP rooms, and 2 Deluxe rooms currently under maintenance|
+||![Case 2](img/tc2.png)|
 
-![Case 3](img/tc3.png)
-Test | Case
------------- | -------------
-Print Reservation List | Hotel has existing 3 Reservations made
 
-![Case 4](img/tc4.png)
-Test | Case
------------- | -------------
-Room status needs to be updated | A Standard room has air conditioning problem
+| Test | Case |
+|------------ | -------------|
+|Print Reservation List | Hotel has existing 3 Reservations made|
+||![Case 3](img/tc3.png)|
+
+
+| Test | Case |
+|------------ | -------------|
+|Room status needs to be updated | A Standard room has air conditioning problem|
+||![Case 4](img/tc4.png)|
 
 ## Error Checking
 
-![Error 1](img/er1.png)
 1.	ID Validator
 Ensures that each record in the entity has a unique ID.
+![Error 1](img/er1.png)
 
-![Error 2](img/er2.png)
 2.	Boolean Validator
-Ensures that boolean values are mapped to either or and not any random values. In this scenario, a Type.GENDER in Entity Class was developed to take in M / F specifically.
+Ensures that boolean values are mapped to either or and not any random values.
+![Error 2](img/er2.png)
 
-![Error 3](img/er3.png)
 3.	String Validator
 Checks a particular string to be of a specific length. In this scenario, phone numbers and credit card not just have to be numbers but have 8 and 16 numbers respectively.
+![Error 3](img/er3.png)
 
-![Error 4](img/er4.png)
 4.	Date Validator
 Checks that date inputs by user match the date format. In this scenario, a dateFormat variable in Reservation Class is follow to only accept user inputs according to the template defined.
+![Error 4](img/er4.png)
 
-![Error 5](img/er5.png)
 5.	Date already Past
 Checks if dates though match the date format are either expired or does not make sense. In the following scenario, it is creating a reservation but check in date has already past and check out date is way before check in date itself.
+![Error 5](img/er5.png)
 
 # Declaration of Original Work for CE/CZ 2002 Assignment
 
@@ -162,8 +159,8 @@ We have honoured the principles of academic integrity and have upheld Student Co
 We understand that if plagiarism is found in the assignment, then lower marks or no marks will be awarded for the assessed work. In addition, disciplinary actions may be taken.
 
 **TEAM**
-- Tan Jun Xiang
+- [Tan Jun Xiang](https://github.com/tjunxiang92)
 -	Lee Vic Son
-- 	Arga Roh Sahrijal Saragih
+- 	[Arga Roh Sahrijal Saragih](https://github.com/d0ct0r4r6a)
 - 	Luk Pui Ying
 - 	Aubrey Quek 
