@@ -1,0 +1,5 @@
+id	2016-12-01-13-23-0201
+remarks	
+status	PREPARING
+created	2016-12-01-13-23
+reservationId	20160415-221-A0831180

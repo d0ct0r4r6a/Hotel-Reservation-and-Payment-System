@@ -1,0 +1,4 @@
+name	Breakfast Set
+price	4.5
+rsId	2016-12-01-13-23-0201
+qty	2

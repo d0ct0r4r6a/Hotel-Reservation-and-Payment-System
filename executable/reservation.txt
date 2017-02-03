@@ -1,0 +1,98 @@
+reservationCode	20160415-221-A0831180
+reservationStatus	CHECKED_IN
+numberOfChildren	2
+numberOfAdult	5
+checkInDate	2016-04-15 0200
+checkOutDate	2016-04-18 0221
+guestId	A0831180
+roomId	0201
+
+reservationCode	20160415-223-A0831179
+reservationStatus	CHECKED_IN
+numberOfChildren	2
+numberOfAdult	5
+checkInDate	2016-04-15 0200
+checkOutDate	2016-04-18 0223
+guestId	A0831179
+roomId	0202
+
+reservationCode	20160415-224-A0831178
+reservationStatus	CHECKED_IN
+numberOfChildren	2
+numberOfAdult	5
+checkInDate	2016-04-15 0200
+checkOutDate	2016-04-18 0224
+guestId	A0831178
+roomId	0401
+
+reservationCode	20160415-224-A0831177
+reservationStatus	CHECKED_IN
+numberOfChildren	2
+numberOfAdult	5
+checkInDate	2016-04-15 0200
+checkOutDate	2016-04-18 0224
+guestId	A0831177
+roomId	0402
+
+reservationCode	20160415-224-A0831176
+reservationStatus	CHECKED_IN
+numberOfChildren	2
+numberOfAdult	5
+checkInDate	2016-04-15 0200
+checkOutDate	2016-04-18 0224
+guestId	A0831176
+roomId	0601
+
+reservationCode	20160415-224-A0831175
+reservationStatus	CHECKED_IN
+numberOfChildren	2
+numberOfAdult	5
+checkInDate	2016-04-15 0200
+checkOutDate	2016-04-18 0224
+guestId	A0831175
+roomId	0602
+
+reservationCode	20160415-224-A0831174
+reservationStatus	CHECKED_IN
+numberOfChildren	2
+numberOfAdult	5
+checkInDate	2016-04-15 0200
+checkOutDate	2016-04-18 0224
+guestId	A0831174
+roomId	0701
+
+reservationCode	20160415-224-A0831173
+reservationStatus	CHECKED_IN
+numberOfChildren	2
+numberOfAdult	5
+checkInDate	2016-04-15 0200
+checkOutDate	2016-04-18 0224
+guestId	A0831173
+roomId	0702
+
+reservationCode	20160415-249-A0831172
+reservationStatus	CONFIRMED
+numberOfChildren	0
+numberOfAdult	2
+checkInDate	2016-04-22 1400
+checkOutDate	2016-04-30 1400
+guestId	A0831172
+roomId	0403
+
+reservationCode	20160415-252-A0831171
+reservationStatus	CONFIRMED
+numberOfChildren	0
+numberOfAdult	2
+checkInDate	2016-04-22 1400
+checkOutDate	2016-04-30 1400
+guestId	A0831171
+roomId	0604
+
+reservationCode	20160415-38-A0831170
+reservationStatus	CONFIRMED
+numberOfChildren	0
+numberOfAdult	2
+checkInDate	2016-04-22 1400
+checkOutDate	2016-04-30 1400
+guestId	A0831170
+roomId	0703

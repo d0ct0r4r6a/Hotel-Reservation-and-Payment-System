@@ -1,0 +1,24 @@
+name	Breakfast Set
+description	The best way to kick start your day
+prepSteps	2x slices of bread with Kaya toasted fresh and a cup of freshly brewed coffee
+price	4.5
+
+name	Lunch Set
+description	Western Food
+prepSteps	Lamb Chop seasoned with BBQ Sauce
+price	10.5
+
+name	Dinner Set
+description	Seafood Delight
+prepSteps	Platter of seafood of your choice.
+price	15.5
+
+name	Soup of the Day
+description	Mushroom or Chowder soup
+prepSteps	Cooked in a pot
+price	3.5
+
+name	Salad
+description	Make your own Salad
+prepSteps	State your own ingredients
+price	7.0
