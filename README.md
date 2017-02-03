@@ -106,45 +106,50 @@ Another new feature that could be implement, is to allow guests to call for a ta
 
 ## Test Cases
 
-![Case 1](tc1.png)
-Test | Case
------------- | -------------
-Print Room type occupancy Rate | Hotel has 2 Single rooms, 2 Standard rooms, 2 VIP rooms, and 2 Deluxe rooms currently being occupied
+![Case 1](img/tc1.png)
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+|Test | Case|
+|------------ | -------------|
+|Print Room type occupancy Rate | Hotel has 2 Single rooms, 2 Standard rooms, 2 VIP rooms, and 2 Deluxe rooms currently being occupied|
+|TESTInG COLSPAN||
 
-![Case 2](tc2.png)
+![Case 2](img/tc2.png)
 Test | Case
 ------------ | -------------
 Print Room status | Hotel has 2 Single rooms, 2 Standard rooms, 2 VIP rooms, and 2 Deluxe rooms currently under maintenance
 
-![Case 3](tc3.png)
+![Case 3](img/tc3.png)
 Test | Case
 ------------ | -------------
 Print Reservation List | Hotel has existing 3 Reservations made
 
-![Case 4](tc4.png)
+![Case 4](img/tc4.png)
 Test | Case
 ------------ | -------------
 Room status needs to be updated | A Standard room has air conditioning problem
 
 ## Error Checking
 
-![Error 1](er1.png)
+![Error 1](img/er1.png)
 1.	ID Validator
 Ensures that each record in the entity has a unique ID.
 
-![Error 2](er2.png)
+![Error 2](img/er2.png)
 2.	Boolean Validator
 Ensures that boolean values are mapped to either or and not any random values. In this scenario, a Type.GENDER in Entity Class was developed to take in M / F specifically.
 
-![Error 3](er3.png)
+![Error 3](img/er3.png)
 3.	String Validator
 Checks a particular string to be of a specific length. In this scenario, phone numbers and credit card not just have to be numbers but have 8 and 16 numbers respectively.
 
-![Error 4](er4.png)
+![Error 4](img/er4.png)
 4.	Date Validator
 Checks that date inputs by user match the date format. In this scenario, a dateFormat variable in Reservation Class is follow to only accept user inputs according to the template defined.
 
-![Error 5](er5.png)
+![Error 5](img/er5.png)
 5.	Date already Past
 Checks if dates though match the date format are either expired or does not make sense. In the following scenario, it is creating a reservation but check in date has already past and check out date is way before check in date itself.
 
